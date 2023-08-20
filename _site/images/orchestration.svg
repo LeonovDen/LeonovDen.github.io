@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="625mm"
+   height="248mm"
+   viewBox="0 0 625 248"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-2-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-9-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-3-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-1-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-2-8-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-2-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-69"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-2-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-6-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-4-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-9-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-3-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-1-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-2-8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-9-7-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-3-8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-1-0-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-2-8-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-5-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-2-0-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-6-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-4-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-9-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-3-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-1-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-2-8-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-9-5-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-3-3-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-1-9-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-2-8-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-5-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-2-0-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5-6-9-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-4-7-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-5-9-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-2-0-8-8" />
+    </marker>
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#c8a9e6;fill-opacity:0.532995;stroke:#100000;stroke-width:1.053;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-0"
+       width="62.936256"
+       height="38.444546"
+       x="7.4586711"
+       y="41.117901"
+       ry="3.6840863" />
+    <rect
+       style="fill:#ffe8ff;fill-opacity:1;stroke:#100000;stroke-width:1.053;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-0-7"
+       width="62.936256"
+       height="38.444546"
+       x="8.7327185"
+       y="198.85229"
+       ry="3.6840863" />
+    <rect
+       style="fill:#f1ccf9;fill-opacity:1;stroke:#100000;stroke-width:1.053;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-0-7-2"
+       width="62.936256"
+       height="38.444546"
+       x="220.17918"
+       y="199.81665"
+       ry="3.6840863" />
+    <rect
+       style="fill:#faedf2;fill-opacity:1;stroke:#100000;stroke-width:1.053;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-0-9"
+       width="62.936256"
+       height="38.444546"
+       x="217.14146"
+       y="39.444904"
+       ry="3.6840863" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="263.91425"
+       y="57.688778"
+       id="text80-9-0-18"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         id="tspan28"
+         x="263.91425"
+         y="57.688778">Сервис B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="42.398689"
+       y="58.957684"
+       id="text80-9-0-1"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         x="42.398689"
+         y="58.957684"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.663676"
+         id="tspan96-8">Сервис A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.2889px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="156.40854"
+       y="17.897566"
+       id="text80-9-0-1-7"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         x="156.40854"
+         y="17.897566"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.2889px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.663676"
+         id="tspan96-8-45">Оркестрация</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.2889px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="508.51959"
+       y="16.978575"
+       id="text80-9-0-1-7-3"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         x="508.51959"
+         y="16.978575"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.2889px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.663676"
+         id="tspan96-8-45-4">Хореография</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="41.718819"
+       y="206.73889"
+       id="text80-9-0-1-8"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         x="41.718819"
+         y="206.73889"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.663676"
+         id="tspan96-8-4">Сервис D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="268.08429"
+       y="208.36952"
+       id="text80-9-0-1-6"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         x="268.08429"
+         y="208.36952"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.663676"
+         id="tspan96-8-43">Сервис C</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529802;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-5)"
+       d="M 211.95515,73.479219 175.83788,113.54285"
+       id="path80-91" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-3)"
+       d="M 185.93593,122.75245 217.20205,85.781659"
+       id="path80-6-4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="56.608189"
+       y="203.59047"
+       id="text104-8"
+       transform="rotate(-47.6261)"><tspan
+         id="tspan104-8"
+         style="stroke-width:0.6"
+         x="56.608189"
+         y="203.59047">ответ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="48.651981"
+       y="228.78761"
+       id="text105-7"
+       transform="rotate(-50.159919)"><tspan
+         id="tspan105-1"
+         style="stroke-width:0.6"
+         x="48.651981"
+         y="228.78761">запрос</tspan></text>
+    <rect
+       style="fill:#e2e2a4;fill-opacity:1;stroke:#100000;stroke-width:1.16115;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-0-7-0"
+       width="76.743492"
+       height="38.336399"
+       x="105.6278"
+       y="119.2534"
+       ry="3.6737227" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="152.76379"
+       y="132.15372"
+       id="text80-9-0-1-6-5"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         x="152.76379"
+         y="132.15372"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.663676"
+         id="tspan96-8-43-8">Оркестратор</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.489605;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-5-6)"
+       d="M 100.51033,153.63108 67.694701,191.28851"
+       id="path80-91-4" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.498237;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-5-9)"
+       d="M 66.657801,84.539529 100.97116,122.04304"
+       id="path80-91-8" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-3-1)"
+       d="M 110.37959,113.97987 77.302471,78.620079"
+       id="path80-6-4-04" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="133.56982"
+       y="12.102907"
+       id="text104-8-05"
+       transform="rotate(48.638374)"><tspan
+         id="tspan104-8-7"
+         style="stroke-width:0.6"
+         x="133.56982"
+         y="12.102907">ответ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="132.90219"
+       y="-8.3478632"
+       id="text105-7-0"
+       transform="rotate(47.737173)"><tspan
+         id="tspan105-1-0"
+         style="stroke-width:0.6"
+         x="132.90219"
+         y="-8.3478632">запрос</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.498237;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-5-9-7)"
+       d="m 179.21216,163.36004 34.31339,37.50351"
+       id="path80-91-8-3" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-3-1-0)"
+       d="m 222.93395,192.80038 -33.0771,-35.35979"
+       id="path80-6-4-04-4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="273.07693"
+       y="-11.513342"
+       id="text104-8-05-3"
+       transform="rotate(47.108868)"><tspan
+         id="tspan104-8-7-0"
+         style="stroke-width:0.6"
+         x="273.07693"
+         y="-11.513342">запрос</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="270.50479"
+       y="-28.18734"
+       id="text105-7-0-4"
+       transform="rotate(45.693032)"><tspan
+         id="tspan105-1-0-8"
+         style="stroke-width:0.6"
+         x="270.50479"
+         y="-28.18734">ответ</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-3-5)"
+       d="M 76.669141,200.76234 107.93527,163.79155"
+       id="path80-6-4-0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="-75.140671"
+       y="172.86775"
+       id="text104-8-0"
+       transform="rotate(-48.828932)"><tspan
+         id="tspan104-8-6"
+         style="stroke-width:0.6"
+         x="-75.140671"
+         y="172.86775">запрос</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="-72.979782"
+       y="196.621"
+       id="text105-7-2"
+       transform="rotate(-49.097756)"><tspan
+         id="tspan105-1-4"
+         style="stroke-width:0.6"
+         x="-72.979782"
+         y="196.621">ответ</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529802;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-5-69)"
+       d="m 544.55495,74.708459 -36.1172,40.063631"
+       id="path80-91-0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-3-4)"
+       d="m 518.53575,123.98169 31.2661,-36.970791"
+       id="path80-6-4-1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="279.86105"
+       y="450.13123"
+       id="text104-8-1"
+       transform="rotate(-47.6261)"><tspan
+         id="tspan104-8-5"
+         style="stroke-width:0.6"
+         x="279.86105"
+         y="450.13123">ответ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="260.78723"
+       y="484.95721"
+       id="text105-7-22"
+       transform="rotate(-50.159919)"><tspan
+         id="tspan105-1-2"
+         style="stroke-width:0.6"
+         x="260.78723"
+         y="484.95721">запрос</tspan></text>
+    <rect
+       style="fill:#fac0eb;fill-opacity:1;stroke:#100000;stroke-width:1.16115;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-0-7-0-4"
+       width="76.743492"
+       height="38.336399"
+       x="438.22766"
+       y="120.48264"
+       ry="3.6737227" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="507.55048"
+       y="133.30608"
+       id="text80-9-0-1-6-5-9"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         x="507.55048"
+         y="133.30608"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.663676"
+         id="tspan96-8-43-8-7">Сервис E</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.489605;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-5-6-4)"
+       d="m 433.11015,154.86032 -32.8156,37.65743"
+       id="path80-91-4-7" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.498237;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-5-9-1)"
+       d="m 399.25765,85.768769 34.3134,37.503511"
+       id="path80-91-8-2" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-3-1-2)"
+       d="M 442.97945,115.20911 409.90235,79.849319"
+       id="path80-6-4-04-0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="354.27753"
+       y="-236.71887"
+       id="text104-8-05-9"
+       transform="rotate(48.638374)"><tspan
+         id="tspan104-8-7-07"
+         style="stroke-width:0.6"
+         x="354.27753"
+         y="-236.71887">ответ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="357.49619"
+       y="-253.66751"
+       id="text105-7-0-1"
+       transform="rotate(47.737173)"><tspan
+         id="tspan105-1-0-6"
+         style="stroke-width:0.6"
+         x="357.49619"
+         y="-253.66751">запрос</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.498237;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-5-9-7-0)"
+       d="m 511.81205,164.58928 34.3133,37.50351"
+       id="path80-91-8-3-0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-3-1-0-3)"
+       d="m 555.53375,194.02962 -33.0771,-35.35979"
+       id="path80-6-4-04-4-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="500.3475"
+       y="-254.35544"
+       id="text104-8-05-3-2"
+       transform="rotate(47.108868)"><tspan
+         id="tspan104-8-7-0-9"
+         style="stroke-width:0.6"
+         x="500.3475"
+         y="-254.35544">запрос</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="503.70621"
+       y="-265.33975"
+       id="text105-7-0-4-6"
+       transform="rotate(45.693032)"><tspan
+         id="tspan105-1-0-8-0"
+         style="stroke-width:0.6"
+         x="503.70621"
+         y="-265.33975">ответ</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-3-5-7)"
+       d="m 409.26905,201.99158 31.2661,-36.97079"
+       id="path80-6-4-0-2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="142.88768"
+       y="424.04065"
+       id="text104-8-0-8"
+       transform="rotate(-48.828932)"><tspan
+         id="tspan104-8-6-4"
+         style="stroke-width:0.6"
+         x="142.88768"
+         y="424.04065">запрос</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="143.86769"
+       y="448.81406"
+       id="text105-7-2-4"
+       transform="rotate(-49.097756)"><tspan
+         id="tspan105-1-4-8"
+         style="stroke-width:0.6"
+         x="143.86769"
+         y="448.81406">ответ</tspan></text>
+    <rect
+       style="fill:#c8a9e6;fill-opacity:0.532995;stroke:#100000;stroke-width:1.053;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-0-90"
+       width="62.936256"
+       height="38.444546"
+       x="341.33203"
+       y="41.284008"
+       ry="3.6840863" />
+    <rect
+       style="fill:#ffe8ff;fill-opacity:1;stroke:#100000;stroke-width:1.053;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-0-7-7"
+       width="62.936256"
+       height="38.444546"
+       x="342.60608"
+       y="199.0184"
+       ry="3.6840863" />
+    <rect
+       style="fill:#f1ccf9;fill-opacity:1;stroke:#100000;stroke-width:1.053;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-0-7-2-6"
+       width="62.936256"
+       height="38.444546"
+       x="554.05261"
+       y="199.98276"
+       ry="3.6840863" />
+    <rect
+       style="fill:#faedf2;fill-opacity:1;stroke:#100000;stroke-width:1.053;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-0-9-8"
+       width="62.936256"
+       height="38.444546"
+       x="551.01489"
+       y="39.611012"
+       ry="3.6840863" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="620.05939"
+       y="57.844501"
+       id="text80-9-0-18-3"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         id="tspan28-8"
+         x="620.05939"
+         y="57.844501">Сервис B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="398.54388"
+       y="59.113415"
+       id="text80-9-0-1-61"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         x="398.54388"
+         y="59.113415"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.663676"
+         id="tspan96-8-9">Сервис A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="397.86395"
+       y="206.89461"
+       id="text80-9-0-1-8-6"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         x="397.86395"
+         y="206.89461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.663676"
+         id="tspan96-8-4-7">Сервис D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="624.22943"
+       y="208.52525"
+       id="text80-9-0-1-6-8"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         x="624.22943"
+         y="208.52525"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.663676"
+         id="tspan96-8-43-9">Сервис C</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.495932;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-5-6-9)"
+       d="m 365.69925,84.915329 -0.206,105.510271"
+       id="path80-91-4-9" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.535746;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-5-9-5)"
+       d="m 409.82115,68.338239 130.0211,0.39566"
+       id="path80-91-8-5" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.590321;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-3-1-9)"
+       d="m 543.48175,56.177708 -128.795,-0.10878"
+       id="path80-6-4-04-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="473.12759"
+       y="72.958817"
+       id="text104-8-05-6"
+       transform="rotate(-0.8604408)"><tspan
+         id="tspan104-8-7-1"
+         style="stroke-width:0.6"
+         x="473.12759"
+         y="72.958817">ответ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="472.86984"
+       y="55.365646"
+       id="text105-7-0-5"
+       transform="rotate(-0.26430678)"><tspan
+         id="tspan105-1-0-9"
+         style="stroke-width:0.6"
+         x="472.86984"
+         y="55.365646">запрос</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.535746;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-5-9-5-2)"
+       d="m 412.01875,226.46459 130.0211,0.39566"
+       id="path80-91-8-5-9" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.590321;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-3-1-9-4)"
+       d="m 545.67935,214.30406 -128.7951,-0.10878"
+       id="path80-6-4-04-5-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="472.95035"
+       y="231.10034"
+       id="text104-8-05-6-7"
+       transform="rotate(-0.8604408)"><tspan
+         id="tspan104-8-7-1-2"
+         style="stroke-width:0.6"
+         x="472.95035"
+         y="231.10034">ответ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="474.33798"
+       y="213.50046"
+       id="text105-7-0-5-9"
+       transform="rotate(-0.26430678)"><tspan
+         id="tspan105-1-0-9-7"
+         style="stroke-width:0.6"
+         x="474.33798"
+         y="213.50046">запрос</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.596268;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-3-5-9)"
+       d="m 380.94205,193.46467 -0.138,-106.017091"
+       id="path80-6-4-0-3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="-138.28087"
+       y="364.15057"
+       id="text104-8-0-9"
+       transform="rotate(-89.412103)"><tspan
+         id="tspan104-8-6-5"
+         style="stroke-width:0.6"
+         x="-138.28087"
+         y="364.15057">запрос</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="-138.3761"
+       y="380.35867"
+       id="text105-7-2-1"
+       transform="rotate(-89.680927)"><tspan
+         id="tspan105-1-4-7"
+         style="stroke-width:0.6"
+         x="-138.3761"
+         y="380.35867">ответ</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.495932;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-5-6-9-2)"
+       d="m 576.80085,83.665029 -0.206,105.510271"
+       id="path80-91-4-9-1" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.596268;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-3-5-9-9)"
+       d="m 592.04365,192.21437 -0.138,-106.017091"
+       id="path80-6-4-0-3-2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="-134.86461"
+       y="575.22821"
+       id="text104-8-0-9-6"
+       transform="rotate(-89.412103)"><tspan
+         id="tspan104-8-6-5-1"
+         style="stroke-width:0.6"
+         x="-134.86461"
+         y="575.22821">запрос</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.600001;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="-135.95023"
+       y="591.45001"
+       id="text105-7-2-1-7"
+       transform="rotate(-89.680927)"><tspan
+         id="tspan105-1-4-7-6"
+         style="stroke-width:0.6"
+         x="-135.95023"
+         y="591.45001">ответ</tspan></text>
+  </g>
+</svg>
