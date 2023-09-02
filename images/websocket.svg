@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="295mm"
+   height="142mm"
+   viewBox="0 0 295 142"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-9-88"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2-7-2" />
+    </marker>
+    <radialGradient
+       xlink:href="#linearGradient29"
+       id="radialGradient30"
+       cx="199.58643"
+       cy="479.15787"
+       fx="199.58643"
+       fy="479.15787"
+       r="3.3398414"
+       gradientTransform="matrix(1.0103024,0,0,13.769044,-165.60302,-6507.061)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient29">
+      <stop
+         style="stop-color:#a4d5e2;stop-opacity:1;"
+         offset="0"
+         id="stop29" />
+      <stop
+         style="stop-color:#e2e2a4;stop-opacity:0;"
+         offset="1"
+         id="stop30" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient32"
+       id="radialGradient30-0"
+       cx="199.58643"
+       cy="479.15787"
+       fx="199.58643"
+       fy="479.15787"
+       r="3.3398414"
+       gradientTransform="matrix(1.0100862,0,0,13.714801,56.854918,-6481.8402)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient32">
+      <stop
+         style="stop-color:#b4ee85;stop-opacity:1;"
+         offset="0"
+         id="stop31" />
+      <stop
+         style="stop-color:#e2e2a4;stop-opacity:0;"
+         offset="1"
+         id="stop32" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#f2fcfe;fill-opacity:1;stroke:#100000;stroke-width:1.053;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-73"
+       width="62.936256"
+       height="38.444546"
+       x="5.1886888"
+       y="5.6951089"
+       ry="3.6840863" />
+    <rect
+       style="fill:#f5fceb;fill-opacity:1;stroke:#100000;stroke-width:1.053;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-4"
+       width="62.936256"
+       height="38.444546"
+       x="226.17747"
+       y="5.2433267"
+       ry="3.6840863" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.0439px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="37.722538"
+       y="28.009487"
+       id="text80-6"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         id="tspan80-3"
+         x="37.722538"
+         y="28.009487"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.0439px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.663676">Browser</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.0439px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="275.67688"
+       y="27.561428"
+       id="text80-9-2-6"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         id="tspan29"
+         x="275.67688"
+         y="27.561428">Server</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.805;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-9)"
+       d="m 41.614248,63.798717 202.883812,0.13204"
+       id="path80-6-2" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.805;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:6.44, 0.805;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle)"
+       d="m 46.484748,93.188807 202.883812,0.13204"
+       id="path80-6-2-0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.805;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:6.44, 0.805;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle-9-9-88)"
+       d="m 44.998298,123.04568 202.883812,0.13204"
+       id="path80-6-2-9" />
+    <rect
+       style="fill:url(#radialGradient30);stroke:#100000;stroke-width:0.428472;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none"
+       id="rect29"
+       width="6.0796781"
+       height="91.698349"
+       x="32.999779"
+       y="44.636211"
+       ry="1.2475966" />
+    <rect
+       style="fill:url(#radialGradient30-0);stroke:#100000;stroke-width:0.42758;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none"
+       id="rect29-4"
+       width="6.0783768"
+       height="91.337105"
+       x="255.41524"
+       y="44.046131"
+       ry="1.2426816" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e2e2a4;stroke:#100000;stroke-width:0.563703;stroke-miterlimit:1;stroke-dasharray:none"
+       x="148.66502"
+       y="55.172859"
+       id="text34"
+       transform="scale(0.93437964,1.0702288)"><tspan
+         id="tspan34"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.563702"
+         x="148.66502"
+         y="55.172859"> Рукопожатие</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e2e2a4;stroke:#100000;stroke-width:0.574009;stroke-miterlimit:1;stroke-dasharray:none"
+       x="150.62648"
+       y="84.85498"
+       id="text34-7"
+       transform="scale(0.95293929,1.0493848)"><tspan
+         id="tspan34-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.574008"
+         x="150.62648"
+         y="84.85498"> Рукопожатие в ответ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;line-height:0;font-family:'Hiragino Mincho ProN';-inkscape-font-specification:'Hiragino Mincho ProN, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#100000;stroke-width:0.663676;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="154.90424"
+       y="111.45988"
+       id="text80-6-7"
+       transform="scale(0.93746438,1.0667072)"><tspan
+         id="tspan35"
+         x="154.90424"
+         y="111.45988">Обмен сообщениями</tspan></text>
+  </g>
+</svg>
